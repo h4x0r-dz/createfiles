@@ -1,5 +1,9 @@
 # createfiles
 
+
+<img width="1249" height="348" alt="image" src="https://github.com/user-attachments/assets/42e419af-3ac8-4ef5-8893-f4fab50c938a" />
+
+
 ```bash
 └─$ gcc createfile.c -o createfile
                                                                                                                                                              
